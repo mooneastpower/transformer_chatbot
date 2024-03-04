@@ -1,14 +1,12 @@
 Q,A
-NE Â÷Á¾Àº ¹«½¼ Â÷Á¾ÀÎ°¡¿ä?,¾ÆÀÌ¿À´Ð 5ÀÔ´Ï´Ù.
-NE Â÷Á¾Àº ¹«½¼ Â÷Á¾?,¾ÆÀÌ¿À´Ð 5ÀÔ´Ï´Ù.
-NE Â÷Á¾Àº ¾î¶² Â÷Á¾?,¾ÆÀÌ¿À´Ð 5ÀÔ´Ï´Ù.
-¿ì¸® È¸»ç ÀÌ¸§?,½´¾î¼ÒÇÁÆ®Å×Å©.
-³»°¡ ´Ù´Ï°í ÀÖ´Â È¸»ç´Â?,½´¾î¼ÒÇÁÆ®Å×Å©.
-CALÀº ¹º°¡¿ä?, CALÀº CalibrationÀÇ ¾àÀÚ·Î Â÷Á¾¸¶´Ù °¡Áö´Â ·ÎÁ÷ »óÀÇ °íÀ¯ »ó¼ö ÀÔ´Ï´Ù
-CALÀº ¹¹ÀÓ?, CALÀº CalibrationÀÇ ¾àÀÚ·Î Â÷Á¾¸¶´Ù °¡Áö´Â ·ÎÁ÷ »óÀÇ °íÀ¯ »ó¼ö ÀÔ´Ï´Ù.
-CALÀº ¹¹¾ß?, CALÀº CalibrationÀÇ ¾àÀÚ·Î Â÷Á¾¸¶´Ù °¡Áö´Â ·ÎÁ÷ »óÀÇ °íÀ¯ »ó¼ö ÀÔ´Ï´Ù.
-CAL¿¡ ´ëÇØ ¾Ë·ÁÁà, CALÀº CalibrationÀÇ ¾àÀÚ·Î Â÷Á¾¸¶´Ù °¡Áö´Â ·ÎÁ÷ »óÀÇ °íÀ¯ »ó¼ö ÀÔ´Ï´Ù.
-HILS°¡ ¹¹¾ß?, Hardware In the LoopÀÇ ¾àÀÚ·Î ½ÇÁ¦ ÀÚµ¿Â÷¿¡ »ç¿ëÇÏ´Â ÇÏµå¿þ¾î(Á¦¾î±â)¸¦ ÀÌ¿ëÇÏ¿© °ËÁõÇÏ´Â ¹æ¹ýÀÔ´Ï´Ù.
-HILS°¡ ¹¹ÀÓ?, Hardware In the LoopÀÇ ¾àÀÚ·Î ½ÇÁ¦ ÀÚµ¿Â÷¿¡ »ç¿ëÇÏ´Â ÇÏµå¿þ¾î(Á¦¾î±â)¸¦ ÀÌ¿ëÇÏ¿© °ËÁõÇÏ´Â ¹æ¹ýÀÔ´Ï´Ù.
-HILS°¡ ¹º°¡¿ä?, Hardware In the LoopÀÇ ¾àÀÚ·Î ½ÇÁ¦ ÀÚµ¿Â÷¿¡ »ç¿ëÇÏ´Â ÇÏµå¿þ¾î(Á¦¾î±â)¸¦ ÀÌ¿ëÇÏ¿© °ËÁõÇÏ´Â ¹æ¹ýÀÔ´Ï´Ù.
-HILS¿¡ ´ëÇØ ¾Ë·ÁÁà, Hardware In the LoopÀÇ ¾àÀÚ·Î ½ÇÁ¦ ÀÚµ¿Â÷¿¡ »ç¿ëÇÏ´Â ÇÏµå¿þ¾î(Á¦¾î±â)¸¦ ÀÌ¿ëÇÏ¿© °ËÁõÇÏ´Â ¹æ¹ýÀÔ´Ï´Ù.
+NE ì°¨ì¢…ì€ ë¬´ìŠ¨ ì°¨ì¢…ì¸ê°€ìš”?,ì•„ì´ì˜¤ë‹‰ 5ìž…ë‹ˆë‹¤.
+NE ì°¨ì¢…ì€ ë¬´ìŠ¨ ì°¨ì¢…?,ì•„ì´ì˜¤ë‹‰ 5ìž…ë‹ˆë‹¤.
+NE ì°¨ì¢…ì€ ì–´ë–¤ ì°¨ì¢…?,ì•„ì´ì˜¤ë‹‰ 5ìž…ë‹ˆë‹¤.
+CALì€ ë­”ê°€ìš”?, CALì€ Calibrationì˜ ì•½ìžë¡œ ì°¨ì¢…ë§ˆë‹¤ ê°€ì§€ëŠ” ë¡œì§ ìƒì˜ ê³ ìœ  ìƒìˆ˜ ìž…ë‹ˆë‹¤
+CALì€ ë­ìž„?, CALì€ Calibrationì˜ ì•½ìžë¡œ ì°¨ì¢…ë§ˆë‹¤ ê°€ì§€ëŠ” ë¡œì§ ìƒì˜ ê³ ìœ  ìƒìˆ˜ ìž…ë‹ˆë‹¤.
+CALì€ ë­ì•¼?, CALì€ Calibrationì˜ ì•½ìžë¡œ ì°¨ì¢…ë§ˆë‹¤ ê°€ì§€ëŠ” ë¡œì§ ìƒì˜ ê³ ìœ  ìƒìˆ˜ ìž…ë‹ˆë‹¤.
+CALì— ëŒ€í•´ ì•Œë ¤ì¤˜, CALì€ Calibrationì˜ ì•½ìžë¡œ ì°¨ì¢…ë§ˆë‹¤ ê°€ì§€ëŠ” ë¡œì§ ìƒì˜ ê³ ìœ  ìƒìˆ˜ ìž…ë‹ˆë‹¤.
+HILSê°€ ë­ì•¼?, Hardware In the Loopì˜ ì•½ìžë¡œ ì‹¤ì œ ìžë™ì°¨ì— ì‚¬ìš©í•˜ëŠ” í•˜ë“œì›¨ì–´(ì œì–´ê¸°)ë¥¼ ì´ìš©í•˜ì—¬ ê²€ì¦í•˜ëŠ” ë°©ë²•ìž…ë‹ˆë‹¤.
+HILSê°€ ë­ìž„?, Hardware In the Loopì˜ ì•½ìžë¡œ ì‹¤ì œ ìžë™ì°¨ì— ì‚¬ìš©í•˜ëŠ” í•˜ë“œì›¨ì–´(ì œì–´ê¸°)ë¥¼ ì´ìš©í•˜ì—¬ ê²€ì¦í•˜ëŠ” ë°©ë²•ìž…ë‹ˆë‹¤.
+HILSê°€ ë­”ê°€ìš”?, Hardware In the Loopì˜ ì•½ìžë¡œ ì‹¤ì œ ìžë™ì°¨ì— ì‚¬ìš©í•˜ëŠ” í•˜ë“œì›¨ì–´(ì œì–´ê¸°)ë¥¼ ì´ìš©í•˜ì—¬ ê²€ì¦í•˜ëŠ” ë°©ë²•ìž…ë‹ˆë‹¤.
+HILSì— ëŒ€í•´ ì•Œë ¤ì¤˜, Hardware In the Loopì˜ ì•½ìžë¡œ ì‹¤ì œ ìžë™ì°¨ì— ì‚¬ìš©í•˜ëŠ” í•˜ë“œì›¨ì–´(ì œì–´ê¸°)ë¥¼ ì´ìš©í•˜ì—¬ ê²€ì¦í•˜ëŠ” ë°©ë²•ìž…ë‹ˆë‹¤.
